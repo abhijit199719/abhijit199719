@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhijit Das</h1>
 <h3 align="center">I am a Data Analyst from Kolkata,India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ-540BgWOx8nq9omgdmUlu-GJt2nNp_6ihg&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ-540BgWOx8nq9omgdmUlu-GJt2nNp_6ihg&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit199719&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit199719" /> </p>
 
